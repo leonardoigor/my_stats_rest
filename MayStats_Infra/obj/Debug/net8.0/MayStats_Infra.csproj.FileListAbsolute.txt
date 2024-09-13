@@ -1,0 +1,15 @@
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\bin\Debug\net8.0\MayStats_Infra.deps.json
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\bin\Debug\net8.0\MayStats_Infra.runtimeconfig.json
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\bin\Debug\net8.0\MayStats_Infra.dll
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\bin\Debug\net8.0\MayStats_Infra.pdb
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\obj\Debug\net8.0\MayStats_Infra.csproj.AssemblyReference.cache
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\obj\Debug\net8.0\MayStats_Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\obj\Debug\net8.0\MayStats_Infra.AssemblyInfoInputs.cache
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\obj\Debug\net8.0\MayStats_Infra.AssemblyInfo.cs
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\obj\Debug\net8.0\MayStats_Infra.csproj.CoreCompileInputs.cache
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\obj\Debug\net8.0\MayStats_Infra.sourcelink.json
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\obj\Debug\net8.0\MayStats_Infra.dll
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\obj\Debug\net8.0\refint\MayStats_Infra.dll
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\obj\Debug\net8.0\MayStats_Infra.pdb
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\obj\Debug\net8.0\MayStats_Infra.genruntimeconfig.cache
+C:\Dev\MyStats\my_stats_rest\MayStats_Infra\obj\Debug\net8.0\ref\MayStats_Infra.dll
